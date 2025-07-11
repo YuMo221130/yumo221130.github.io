@@ -74,7 +74,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "思考是不断延续的旅程"
+sidebar-about-description: "INTJ-A | Software to 3.0 | Trader"
 sidebar-avatar: https://pbs.twimg.com/profile_images/1895629989929684993/2WQ2gVHn_400x400.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
