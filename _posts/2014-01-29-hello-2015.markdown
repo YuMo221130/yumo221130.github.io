@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Hello 2025"
-subtitle:   " \"Yeah It's on.\""
+title:      "Hello there"
+subtitle:   "Yeah It's on."
 date:       2025-09-19 12:00:00
 author:     "YM"
 header-img: "img/post-bg-2015.jpg"
@@ -10,7 +10,7 @@ tags:
     - Meta
 ---
 
-## Keep growing 
-思考开启一段旅程 记录，传承
+## Keep growing <br>
+思考开启一段旅程，记录，传承 <br>
 我们会再次相聚
 
